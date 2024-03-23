@@ -1,4 +1,3 @@
-# PRODIGY_ML_03
 
 ## Image Classification: Cats vs. Dogs SVM Project
 
